@@ -1,0 +1,9 @@
+54b0e4b9509b5f8d14824deee3ea6849 *DESCRIPTION
+9c602d6413a9966a56078f9e8c1c96ad *NAMESPACE
+aa1160bbcdea19e798e55cf861f95470 *R/twitter-text.R
+3e78fb4cccf1a97a580241f4a3aabfe4 *R/zzz.R
+775bf03e25c8284585770ec5bb0ab60e *README.md
+46aff9be19e1d6cca3ab42bbc599e463 *inst/extdata/twitter-text.min.js
+e1cd5797ec8948d715c7efc40678bfa5 *man/tweet_autolink.Rd
+b06d70c95551a5b452d74f4e22a04231 *man/tweet_get_mentions.Rd
+3870f9f21c7be35688bbcde6d7a18af0 *man/tweet_info.Rd
